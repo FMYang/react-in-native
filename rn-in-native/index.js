@@ -269,7 +269,6 @@ export default class FlexboxTest extends Component {
     render() {
         return (
             <Navigator/>
-            // <Text style={{marginTop: 100}}> ni hao </Text>
         )
     }
 }
